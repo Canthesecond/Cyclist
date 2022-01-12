@@ -37,7 +37,7 @@ A good data source is ROCCC which stands for Reliable, Original, Comprehensive, 
 - Original — HIGH — Divvy bike sharing company itself provides the data
 - Comprehensive — HIGH — Parameters match Cyclist products’ parameters
 - Current — HIGH — Data is current and relevant
-- Cited — HIGH — Data collected within in the company
+- Cited — HIGH — Data is cited and made it available under license agreement.
 
 Overall, the dataset is considered high quality data and it is recommended to produce business recommendations based on this data.
 
