@@ -36,8 +36,7 @@ The stakeholders for this projects are;
  I decided to use R to clean the data because it is easy to work with big datasets. You can find the details in the pdf version in the project folder.
  
  I used Tableau for the visualization purposes. Please click [here](https://public.tableau.com/app/profile/canthesecond/viz/Cyclist_project/Cyclist_dashboard) to see the visualized data. 
- 
- **Since there are around 2 million rows, I have used R because it is easy to use with large dataset.**
+
 
 
  
