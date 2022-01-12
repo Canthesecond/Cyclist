@@ -22,14 +22,26 @@ visualizations.
 The goal of this case study is to identify how do annual members and casual riders use Cyclistic bikes differently.
 This comparison along with other tasks will later be used by marketing department for developing strategies aimed at converting casual riders into members.
 
-In this project data is given to us from a realiable source therefore ROACC test is not required by my judgement.
-
 The stakeholders for this projects are;
 
 -Primary stakeholders: The director of marketing and Cyclistic executive team
 
 -Secondary stakeholders: Cyclistic marketing analytics team
  
+
+# Data Reliability (ROCCC)
+
+A good data source is ROCCC which stands for Reliable, Original, Comprehensive, Current, and Cited.
+
+- Reliable — HIGH — Reliable because it only has 30 respondents
+- Original — HIGH — Divvy bike sharing company itself provides the data
+- Comprehensive — HIGH — Parameters match Cyclist products’ parameters
+- Current — HIGH — Data is current and relevant
+- Cited — HIGH — Data collected within in the company
+
+Overall, the dataset is considered high quality data and it is recommended to produce business recommendations based on this data.
+
+
  # Data Processing
  Before I start analyzing the dataset, it is necessary to make sure data is clean, free of error and in the right format.
  
